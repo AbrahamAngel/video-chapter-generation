@@ -1,0 +1,956 @@
+[
+    {
+        "id": 0,
+        "seek": 0,
+        "start": 0.8999999999999986,
+        "end": 6.66,
+        "text": " My second main step is to explain the result of our project.",
+        "tokens": [
+            50364,
+            1222,
+            1150,
+            2135,
+            1823,
+            307,
+            281,
+            2903,
+            264,
+            1874,
+            295,
+            527,
+            1716,
+            13,
+            50714
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " My",
+                "start": 0.8999999999999986,
+                "end": 1.5,
+                "probability": 0.2286408245563507
+            },
+            {
+                "word": " second",
+                "start": 1.5,
+                "end": 1.78,
+                "probability": 0.08479147404432297
+            },
+            {
+                "word": " main",
+                "start": 1.78,
+                "end": 1.96,
+                "probability": 0.05216796323657036
+            },
+            {
+                "word": " step",
+                "start": 1.96,
+                "end": 2.16,
+                "probability": 0.03829597681760788
+            },
+            {
+                "word": " is",
+                "start": 2.16,
+                "end": 2.8,
+                "probability": 0.7059508562088013
+            },
+            {
+                "word": " to",
+                "start": 2.8,
+                "end": 2.86,
+                "probability": 0.3783433139324188
+            },
+            {
+                "word": " explain",
+                "start": 2.86,
+                "end": 5.42,
+                "probability": 0.1837548166513443
+            },
+            {
+                "word": " the",
+                "start": 5.42,
+                "end": 5.62,
+                "probability": 0.7792056202888489
+            },
+            {
+                "word": " result",
+                "start": 5.62,
+                "end": 5.86,
+                "probability": 0.485919326543808
+            },
+            {
+                "word": " of",
+                "start": 5.86,
+                "end": 6.16,
+                "probability": 0.9559178948402405
+            },
+            {
+                "word": " our",
+                "start": 6.16,
+                "end": 6.32,
+                "probability": 0.45546260476112366
+            },
+            {
+                "word": " project.",
+                "start": 6.32,
+                "end": 6.66,
+                "probability": 0.9371063709259033
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "seek": 0,
+        "start": 7.58,
+        "end": 13.3,
+        "text": " Our project is not to be used to scientific temperature in degree Celsius and to output the",
+        "tokens": [
+            50714,
+            2621,
+            1716,
+            307,
+            406,
+            281,
+            312,
+            1143,
+            281,
+            8134,
+            4292,
+            294,
+            4314,
+            22658,
+            293,
+            281,
+            5598,
+            264,
+            51030
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " Our",
+                "start": 7.58,
+                "end": 8.18,
+                "probability": 0.545998215675354
+            },
+            {
+                "word": " project",
+                "start": 8.18,
+                "end": 8.5,
+                "probability": 0.9901207685470581
+            },
+            {
+                "word": " is",
+                "start": 8.5,
+                "end": 8.72,
+                "probability": 0.3266235291957855
+            },
+            {
+                "word": " not",
+                "start": 8.72,
+                "end": 8.72,
+                "probability": 0.2509854733943939
+            },
+            {
+                "word": " to",
+                "start": 8.72,
+                "end": 8.94,
+                "probability": 0.2971477508544922
+            },
+            {
+                "word": " be",
+                "start": 8.94,
+                "end": 9.08,
+                "probability": 0.2093765139579773
+            },
+            {
+                "word": " used",
+                "start": 9.08,
+                "end": 9.32,
+                "probability": 0.09460500627756119
+            },
+            {
+                "word": " to",
+                "start": 9.32,
+                "end": 9.56,
+                "probability": 0.8209167718887329
+            },
+            {
+                "word": " scientific",
+                "start": 9.56,
+                "end": 10.06,
+                "probability": 0.042991284281015396
+            },
+            {
+                "word": " temperature",
+                "start": 10.06,
+                "end": 10.68,
+                "probability": 0.42509913444519043
+            },
+            {
+                "word": " in",
+                "start": 10.68,
+                "end": 10.84,
+                "probability": 0.26566147804260254
+            },
+            {
+                "word": " degree",
+                "start": 10.84,
+                "end": 11.06,
+                "probability": 0.696359395980835
+            },
+            {
+                "word": " Celsius",
+                "start": 11.06,
+                "end": 11.38,
+                "probability": 0.2786490023136139
+            },
+            {
+                "word": " and",
+                "start": 11.38,
+                "end": 12.12,
+                "probability": 0.8249168992042542
+            },
+            {
+                "word": " to",
+                "start": 12.12,
+                "end": 12.38,
+                "probability": 0.8575560450553894
+            },
+            {
+                "word": " output",
+                "start": 12.38,
+                "end": 13.1,
+                "probability": 0.9894994497299194
+            },
+            {
+                "word": " the",
+                "start": 13.1,
+                "end": 13.3,
+                "probability": 0.9076082110404968
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "seek": 0,
+        "start": 13.3,
+        "end": 14.7,
+        "text": " result in digital number.",
+        "tokens": [
+            51030,
+            1874,
+            294,
+            4562,
+            1230,
+            13,
+            51130
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " result",
+                "start": 13.3,
+                "end": 13.58,
+                "probability": 0.7432964444160461
+            },
+            {
+                "word": " in",
+                "start": 13.58,
+                "end": 13.88,
+                "probability": 0.9379176497459412
+            },
+            {
+                "word": " digital",
+                "start": 13.88,
+                "end": 14.28,
+                "probability": 0.95947265625
+            },
+            {
+                "word": " number.",
+                "start": 14.28,
+                "end": 14.7,
+                "probability": 0.941746711730957
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "seek": 0,
+        "start": 15.34,
+        "end": 18.76,
+        "text": " So for one degree Celsius our system displays 0.1.",
+        "tokens": [
+            51130,
+            407,
+            337,
+            472,
+            4314,
+            22658,
+            527,
+            1185,
+            20119,
+            1958,
+            13,
+            16,
+            13,
+            51280
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " So",
+                "start": 15.34,
+                "end": 15.36,
+                "probability": 0.43792346119880676
+            },
+            {
+                "word": " for",
+                "start": 15.36,
+                "end": 15.52,
+                "probability": 0.625512957572937
+            },
+            {
+                "word": " one",
+                "start": 15.52,
+                "end": 15.74,
+                "probability": 0.9300325512886047
+            },
+            {
+                "word": " degree",
+                "start": 15.74,
+                "end": 15.98,
+                "probability": 0.9958235025405884
+            },
+            {
+                "word": " Celsius",
+                "start": 15.98,
+                "end": 16.38,
+                "probability": 0.943139910697937
+            },
+            {
+                "word": " our",
+                "start": 16.38,
+                "end": 17.08,
+                "probability": 0.5531057715415955
+            },
+            {
+                "word": " system",
+                "start": 17.08,
+                "end": 17.64,
+                "probability": 0.9585558772087097
+            },
+            {
+                "word": " displays",
+                "start": 17.64,
+                "end": 18.16,
+                "probability": 0.7964618802070618
+            },
+            {
+                "word": " 0",
+                "start": 18.16,
+                "end": 18.52,
+                "probability": 0.5637773871421814
+            },
+            {
+                "word": ".1.",
+                "start": 18.52,
+                "end": 18.76,
+                "probability": 0.7693549990653992
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "seek": 0,
+        "start": 19.18,
+        "end": 21.88,
+        "text": " For two degree Celsius our system displays 0.2.",
+        "tokens": [
+            51280,
+            1171,
+            732,
+            4314,
+            22658,
+            527,
+            1185,
+            20119,
+            1958,
+            13,
+            17,
+            13,
+            51480
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " For",
+                "start": 19.18,
+                "end": 19.26,
+                "probability": 0.7240653038024902
+            },
+            {
+                "word": " two",
+                "start": 19.26,
+                "end": 19.46,
+                "probability": 0.4249127209186554
+            },
+            {
+                "word": " degree",
+                "start": 19.46,
+                "end": 19.7,
+                "probability": 0.9184108972549438
+            },
+            {
+                "word": " Celsius",
+                "start": 19.7,
+                "end": 20.08,
+                "probability": 0.9812843203544617
+            },
+            {
+                "word": " our",
+                "start": 20.08,
+                "end": 20.44,
+                "probability": 0.8834956884384155
+            },
+            {
+                "word": " system",
+                "start": 20.44,
+                "end": 20.88,
+                "probability": 0.9871324300765991
+            },
+            {
+                "word": " displays",
+                "start": 20.88,
+                "end": 21.18,
+                "probability": 0.9845790863037109
+            },
+            {
+                "word": " 0",
+                "start": 21.18,
+                "end": 21.62,
+                "probability": 0.9827699661254883
+            },
+            {
+                "word": ".2.",
+                "start": 21.62,
+                "end": 21.88,
+                "probability": 0.920263260602951
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "seek": 0,
+        "start": 22.46,
+        "end": 24.9,
+        "text": " Till 15 it displays continuously.",
+        "tokens": [
+            51480,
+            20227,
+            2119,
+            309,
+            20119,
+            15684,
+            13,
+            51626
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.7916447566105769,
+        "compression_ratio": 1.6994535519125684,
+        "no_speech_prob": 0.2705107629299164,
+        "words": [
+            {
+                "word": " Till",
+                "start": 22.46,
+                "end": 22.72,
+                "probability": 0.779512345790863
+            },
+            {
+                "word": " 15",
+                "start": 22.72,
+                "end": 23.52,
+                "probability": 0.8363968729972839
+            },
+            {
+                "word": " it",
+                "start": 23.52,
+                "end": 23.82,
+                "probability": 0.3487343490123749
+            },
+            {
+                "word": " displays",
+                "start": 23.82,
+                "end": 24.18,
+                "probability": 0.9960758090019226
+            },
+            {
+                "word": " continuously.",
+                "start": 24.18,
+                "end": 24.9,
+                "probability": 0.5501652359962463
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "seek": 2490,
+        "start": 24.9,
+        "end": 33.38,
+        "text": " When the degree Celsius becomes 16 our system is expected output is 1.6 but our system displays",
+        "tokens": [
+            50364,
+            1133,
+            264,
+            4314,
+            22658,
+            3643,
+            3165,
+            527,
+            1185,
+            307,
+            5176,
+            5598,
+            307,
+            502,
+            13,
+            21,
+            457,
+            527,
+            1185,
+            20119,
+            50814
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.4359106533769248,
+        "compression_ratio": 1.6375,
+        "no_speech_prob": 0.036012519150972366,
+        "words": [
+            {
+                "word": " When",
+                "start": 24.9,
+                "end": 25.72,
+                "probability": 0.13817685842514038
+            },
+            {
+                "word": " the",
+                "start": 25.72,
+                "end": 26.34,
+                "probability": 0.9416682720184326
+            },
+            {
+                "word": " degree",
+                "start": 26.34,
+                "end": 27.06,
+                "probability": 0.5810470581054688
+            },
+            {
+                "word": " Celsius",
+                "start": 27.06,
+                "end": 27.26,
+                "probability": 0.009964504279196262
+            },
+            {
+                "word": " becomes",
+                "start": 27.26,
+                "end": 27.68,
+                "probability": 0.8065284490585327
+            },
+            {
+                "word": " 16",
+                "start": 27.68,
+                "end": 28.22,
+                "probability": 0.8303682804107666
+            },
+            {
+                "word": " our",
+                "start": 28.22,
+                "end": 29.0,
+                "probability": 0.15229976177215576
+            },
+            {
+                "word": " system",
+                "start": 29.0,
+                "end": 29.72,
+                "probability": 0.29458367824554443
+            },
+            {
+                "word": " is",
+                "start": 29.72,
+                "end": 29.98,
+                "probability": 0.835347056388855
+            },
+            {
+                "word": " expected",
+                "start": 29.98,
+                "end": 30.38,
+                "probability": 0.9767701029777527
+            },
+            {
+                "word": " output",
+                "start": 30.38,
+                "end": 30.84,
+                "probability": 0.8611985445022583
+            },
+            {
+                "word": " is",
+                "start": 30.84,
+                "end": 31.1,
+                "probability": 0.5457866787910461
+            },
+            {
+                "word": " 1",
+                "start": 31.1,
+                "end": 31.32,
+                "probability": 0.523176908493042
+            },
+            {
+                "word": ".6",
+                "start": 31.32,
+                "end": 31.62,
+                "probability": 0.45166945457458496
+            },
+            {
+                "word": " but",
+                "start": 31.62,
+                "end": 32.24,
+                "probability": 0.5463355183601379
+            },
+            {
+                "word": " our",
+                "start": 32.24,
+                "end": 32.58,
+                "probability": 0.9563217759132385
+            },
+            {
+                "word": " system",
+                "start": 32.58,
+                "end": 32.94,
+                "probability": 0.9866689443588257
+            },
+            {
+                "word": " displays",
+                "start": 32.94,
+                "end": 33.38,
+                "probability": 0.7345603108406067
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "seek": 2490,
+        "start": 33.38,
+        "end": 38.86,
+        "text": " 0.0 because we are only using the 4 bit from the LSE.",
+        "tokens": [
+            50814,
+            1958,
+            13,
+            15,
+            570,
+            321,
+            366,
+            787,
+            1228,
+            264,
+            1017,
+            857,
+            490,
+            264,
+            441,
+            5879,
+            13,
+            51102
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.4359106533769248,
+        "compression_ratio": 1.6375,
+        "no_speech_prob": 0.036012519150972366,
+        "words": [
+            {
+                "word": " 0",
+                "start": 33.38,
+                "end": 33.86,
+                "probability": 0.09471380710601807
+            },
+            {
+                "word": ".0",
+                "start": 33.86,
+                "end": 34.32,
+                "probability": 0.6305860280990601
+            },
+            {
+                "word": " because",
+                "start": 34.32,
+                "end": 35.42,
+                "probability": 0.7134383916854858
+            },
+            {
+                "word": " we",
+                "start": 35.42,
+                "end": 35.66,
+                "probability": 0.9696261286735535
+            },
+            {
+                "word": " are",
+                "start": 35.66,
+                "end": 35.76,
+                "probability": 0.977296769618988
+            },
+            {
+                "word": " only",
+                "start": 35.76,
+                "end": 35.96,
+                "probability": 0.9618421196937561
+            },
+            {
+                "word": " using",
+                "start": 35.96,
+                "end": 36.24,
+                "probability": 0.9943171143531799
+            },
+            {
+                "word": " the",
+                "start": 36.24,
+                "end": 36.42,
+                "probability": 0.9221265912055969
+            },
+            {
+                "word": " 4",
+                "start": 36.42,
+                "end": 36.62,
+                "probability": 0.6135243773460388
+            },
+            {
+                "word": " bit",
+                "start": 36.62,
+                "end": 36.82,
+                "probability": 0.6089602708816528
+            },
+            {
+                "word": " from",
+                "start": 36.82,
+                "end": 38.22,
+                "probability": 0.8419406414031982
+            },
+            {
+                "word": " the",
+                "start": 38.22,
+                "end": 38.44,
+                "probability": 0.9785914421081543
+            },
+            {
+                "word": " LSE.",
+                "start": 38.44,
+                "end": 38.86,
+                "probability": 0.1905382052063942
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "seek": 2490,
+        "start": 39.46,
+        "end": 45.18,
+        "text": " So for normal room temperature that is 25 degree Celsius our expected output is 2.5 but",
+        "tokens": [
+            51102,
+            407,
+            337,
+            2710,
+            1808,
+            4292,
+            300,
+            307,
+            3552,
+            4314,
+            22658,
+            527,
+            5176,
+            5598,
+            307,
+            568,
+            13,
+            20,
+            457,
+            51380
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.4359106533769248,
+        "compression_ratio": 1.6375,
+        "no_speech_prob": 0.036012519150972366,
+        "words": [
+            {
+                "word": " So",
+                "start": 39.46,
+                "end": 39.72,
+                "probability": 0.913418710231781
+            },
+            {
+                "word": " for",
+                "start": 39.72,
+                "end": 40.08,
+                "probability": 0.7218917608261108
+            },
+            {
+                "word": " normal",
+                "start": 40.08,
+                "end": 40.44,
+                "probability": 0.92535400390625
+            },
+            {
+                "word": " room",
+                "start": 40.44,
+                "end": 40.76,
+                "probability": 0.5921614766120911
+            },
+            {
+                "word": " temperature",
+                "start": 40.76,
+                "end": 41.18,
+                "probability": 0.9965986609458923
+            },
+            {
+                "word": " that",
+                "start": 41.18,
+                "end": 41.36,
+                "probability": 0.9020954370498657
+            },
+            {
+                "word": " is",
+                "start": 41.36,
+                "end": 41.52,
+                "probability": 0.974213182926178
+            },
+            {
+                "word": " 25",
+                "start": 41.52,
+                "end": 41.82,
+                "probability": 0.9721560478210449
+            },
+            {
+                "word": " degree",
+                "start": 41.82,
+                "end": 42.32,
+                "probability": 0.7678530812263489
+            },
+            {
+                "word": " Celsius",
+                "start": 42.32,
+                "end": 42.62,
+                "probability": 0.9609186053276062
+            },
+            {
+                "word": " our",
+                "start": 42.62,
+                "end": 43.24,
+                "probability": 0.47870880365371704
+            },
+            {
+                "word": " expected",
+                "start": 43.24,
+                "end": 43.68,
+                "probability": 0.6855401396751404
+            },
+            {
+                "word": " output",
+                "start": 43.68,
+                "end": 44.16,
+                "probability": 0.9950149655342102
+            },
+            {
+                "word": " is",
+                "start": 44.16,
+                "end": 44.32,
+                "probability": 0.9701054096221924
+            },
+            {
+                "word": " 2",
+                "start": 44.32,
+                "end": 44.56,
+                "probability": 0.5639243721961975
+            },
+            {
+                "word": ".5",
+                "start": 44.56,
+                "end": 44.88,
+                "probability": 0.9753306210041046
+            },
+            {
+                "word": " but",
+                "start": 44.88,
+                "end": 45.18,
+                "probability": 0.93697190284729
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "seek": 2490,
+        "start": 45.18,
+        "end": 46.78,
+        "text": " our system displays 0.9.",
+        "tokens": [
+            51380,
+            527,
+            1185,
+            20119,
+            1958,
+            13,
+            24,
+            13,
+            51456
+        ],
+        "temperature": 0.0,
+        "avg_logprob": -0.4359106533769248,
+        "compression_ratio": 1.6375,
+        "no_speech_prob": 0.036012519150972366,
+        "words": [
+            {
+                "word": " our",
+                "start": 45.18,
+                "end": 45.3,
+                "probability": 0.9142919778823853
+            },
+            {
+                "word": " system",
+                "start": 45.3,
+                "end": 45.6,
+                "probability": 0.9933934807777405
+            },
+            {
+                "word": " displays",
+                "start": 45.6,
+                "end": 46.0,
+                "probability": 0.9311652779579163
+            },
+            {
+                "word": " 0",
+                "start": 46.0,
+                "end": 46.5,
+                "probability": 0.9760642051696777
+            },
+            {
+                "word": ".9.",
+                "start": 46.5,
+                "end": 46.78,
+                "probability": 0.9743257462978363
+            }
+        ]
+    }
+]

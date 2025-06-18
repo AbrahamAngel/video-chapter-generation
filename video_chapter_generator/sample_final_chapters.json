@@ -1,0 +1,32 @@
+[
+    {
+        "start_time": 0.8999999999999986,
+        "end_time": 6.66,
+        "text": " My second main step is to explain the result of our project.",
+        "title": " \"My second main step is to explain the result of our project,\" he says . \"I'm not going to be surprised by the result,\" he adds ."
+    },
+    {
+        "start_time": 7.58,
+        "end_time": 14.7,
+        "text": " Our project is not to be used to scientific temperature in degree Celsius and to output the  result in digital number.",
+        "title": " Our project is not to be used to scientific temperature in degree Celsius and to output the result in digital number ."
+    },
+    {
+        "start_time": 15.34,
+        "end_time": 21.88,
+        "text": " So for one degree Celsius our system displays 0.1.  For two degree Celsius our system displays 0.2.",
+        "title": " For one degree Celsius our system displays 0.1.1 . For two degree Celsius we display 0.2.2 ."
+    },
+    {
+        "start_time": 22.46,
+        "end_time": 24.9,
+        "text": " Till 15 it displays continuously.",
+        "title": " Till 15 it displays continuously. Till 15, it displays continuous.  Till 15 Till 15 It displays continuously . Until 15 it shows continuously."
+    },
+    {
+        "start_time": 24.9,
+        "end_time": 46.78,
+        "text": " When the degree Celsius becomes 16 our system is expected output is 1.6 but our system displays  0.0 because we are only using the 4 bit from the LSE.  So for normal room temperature that is 25 degree Celsius our expected output is 2.5 but  our system displays 0.9.",
+        "title": " For normal room temperature that is 25 degree Celsius our expected output is 2.5 but  our system displays 0.9.0 because we are only using the 4 bit from the LSE . When the degree Celsius becomes 16 degrees Celsius"
+    }
+]
